@@ -1,5 +1,6 @@
 import React from "react";
-import image from "../../public/images/404.jpg"
+import image from "../../../public/images/404.jpg"
+import Image from "next/image";
 const NotFound = () => {
     return (
         <div className="container">
